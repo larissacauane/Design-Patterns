@@ -11,7 +11,7 @@ public class Cliente {
 		
 		Pessoa p = fabrica.getGenero("F", "Larissa");
 		
-		System.out.println(p.saudacao());
+		
 		
 		
 		
