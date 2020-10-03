@@ -27,9 +27,6 @@ public class Pessoa {
 		this.nome = nome;
 	}
 	
-	public String saudacao() {
-		return "Olá";
-	}
 	
 	
 }
