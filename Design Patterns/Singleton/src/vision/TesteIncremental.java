@@ -8,7 +8,7 @@ public class TesteIncremental {
 			
 			for (int i = 0; i < 10; i++) {
 				IncrementalSingleton inc = IncrementalSingleton.getIncrementalSingleton();
-				inc.setNumero(i);
+				//inc.setNumero(i);
 				System.out.println(inc);
 			}
 	}
